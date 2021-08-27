@@ -1,5 +1,5 @@
 # Jian's Blog
-## Goals
+##  Goals
 Update a blog every week.
 ## Contents
 1. Algorithms
